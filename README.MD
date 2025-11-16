@@ -25,7 +25,7 @@ The program is inspired by the mathematical explanation of the donut's 3D projec
 
 ## Compilation
 
-1. Assemble the code:
+Assemble the code:
 
 ```bash
 tasm donut.asm
