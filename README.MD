@@ -4,8 +4,6 @@ This project is an implementation of the classic rotating 3D ASCII donut, writte
 
 The program is inspired by the mathematical explanation of the donut's 3D projection found [here](https://www.a1k0n.net/2011/07/20/donut-math.html).
 
-# Here is a demonstration of the program in action.
-
 ![donut](docs/donut-demo.gif)
 
 ---
